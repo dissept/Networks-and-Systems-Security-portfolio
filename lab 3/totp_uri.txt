@@ -1,0 +1,1 @@
+otpauth://totp/NSSec%20Demo%3Aana%40example.com?secret=NBDXPPLX5ZVNT7HIDIYAGCEKJGSMA6VD&issuer=NSSec+Demo&period=30&digits=6&algorithm=SHA1
